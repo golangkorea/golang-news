@@ -6,7 +6,7 @@ Golang News는 Golang Korea 운영진들이 [Golang Weekly](https://golangweekly
 
 ## 발행 주기
 
-매달 마지막주 목요일, 월 1회 발행
+매달 1일, 월 1회 발행
 
 ## 발행 소식
 
