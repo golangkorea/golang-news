@@ -15,3 +15,4 @@ Golang News는 Golang Korea 운영진들이 [Golang Weekly](https://golangweekly
 - [2020-07](issues/2020-07.md)
 - [2020-08](issues/2020-08.md)
 - [2020-09](issues/2020-09.md)
+- [2020-10](issues/2020-10.md)
